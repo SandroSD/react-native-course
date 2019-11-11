@@ -1,0 +1,24 @@
+Built into react native
+translation to native ui widgets provided by react native
+view
+text
+button / touchable
+textinput
+image
+
+your uis / custom components
+composed of these core componets & other bult-in components
+const MyTitle = props => {
+	return (
+		<View>
+			<Text>{props.title}</Text>
+		</View>
+	)
+}
+
+Styling
+there is no CSS!
+inline styles						stylesheet objects
+				written in JS
+	Based on CSS Syntax, but only subset of properties & features is supported!
+										(Preferred!)
