@@ -2,3 +2,6 @@ how to detect the device dimensions & orientation
 adjusting layouts based on size & orientation
 how to detect the device platform(iOS or Android)
 adjusting code / UI based on the platform
+
+
+Ver desde el video 90
